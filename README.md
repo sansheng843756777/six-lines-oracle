@@ -57,6 +57,10 @@ bash scripts/oracle_predict.sh Spain Austria
 
 ![微信收款码](assets/wechat_qr.jpg)
 
+> ⚠️ **风险账号提示**：如您的账号存在违规、欺诈、异常交易等风险行为，请勿打赏。
+> 收款方有权拒绝来自风险账号的打赏款项，且不予退还。
+> 如有疑问，请通过正规渠道联系确认。
+
 或通过 GitHub Sponsor 赞助：https://github.com/sponsors/sansheng843756777
 
 ---
